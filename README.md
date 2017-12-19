@@ -1,2 +1,2 @@
-# mbrl_pytorch
-Model based RL methods implemented in pytorch.
+# mbrl
+Model based RL methods implemented with tensorflow and edward.
